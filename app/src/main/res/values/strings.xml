@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">BNNKediri</string>
+    <string name="hint_phone_number">No Handphone</string>
+    <string name="title_abuse">LAPOR PENYALAHGUNAAN</string>
+    <string name="hint_kecamatan">Kecamatan</string>
+    <string name="hint_address">Alamat Lengkap</string>
+    <string name="label_pick_location">Pilih Titik Lokasi</string>
+    <string name="label_button_back">Kembali</string>
+    <string name="label_button_report">Laporkan</string>
+    <string name="label_pick_photo">Ambil Foto</string>
+    <string name="title_socialization">Permintaan Sosialisasi \n P4GN</string>
+    <string name="hint_full_name">Nama Lengkap</string>
+    <string name="hint_company">Instansi / Lembaga</string>
+    <string name="hint_request">Keperluan</string>
+    <string name="label_date_implementation">Tanggal Pelaksanaan</string>
+    <string name="label_hour_implementation">Jam Pelaksanaan</string>
+    <string name="title_rehabilitazion">Permintaan Pendampingan \n Rehabilitasi</string>
+    <string name="hint_zat_used">Zat yang pernah digunakan</string>
+    <string name="hint_usage_time">Lama Penggunaan</string>
+    <string name="label_gender">Jenis Kelamin</string>
+    <string name="label_date_birth">Tgl Bln Thn Lahir</string>
+    <string name="title_counseling">Permintaan Konseling</string>
+    <string name="label_cancel">Batal</string>
+    <string name="dialog_message">Belum Selesai</string>
+    <string name="dialog_title">Mohon Maaf</string>
+    <string name="hint_spinner">Pilih Keperluan</string>
+
+    <string name="error_500">Server Error : Kesalahan Server Dari Dalam</string>
+    <string name="error_400">Server Error : Permintaan yang buruk</string>
+    <string name="error_403">Server Error : Terlarang</string>
+    <string name="error_404">Server Error : Tidak ditemukan</string>
+    <string name="error_parsing">Format </string>
+    <string name="error_xxx">Error Tidak Ditemukan</string>
+    <string name="label_api_process">Mohon Tunggu...</string>
+    <string name="title_login">Login</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_nik">NIK</string>
+    <string name="label_show_password">Tampilkan</string>
+    <string name="label_button_login">Login</string>
+    <string name="title_tindakan">Tindakan</string>
+    <string name="hint_name">Nama</string>
+    <string name="title_detail_rehab">Permintaan Rehabilitasi</string>
+    <string name="label_button_confirmation">Konfirmasi Selesai</string>
+    <string name="title_detail_counseling">Permintaan Konseling</string>
+    <string name="title_detail_socialize">Permintaan Sosialisasi P4GN</string>
+    <string name="title_detail_abuse">Laporan Penyalahgunaan</string>
+
+    <string name="error_permission_denied">Permission Denied</string>
+    <string name="title_choose_image">Pilih Gambar</string>
+    <string name="label_camera">Kamera</string>
+    <string name="label_gallery">Galeri</string>
+
+    <string name="api_key">AIzaSyARxdJxRwW4fMKwRpLkD9_VMNWOPHGOdqI</string>
+
+    <string-array name="spinner_pelayanan">
+        <item>Permintaan Sosialisasi</item>
+        <item>Pendampingan Rehabilitasi</item>
+        <item>Laporan Penyalahgunaan</item>
+        <item>Permintaan Konseling</item>
+    </string-array>
+
+    <string-array name="spinner_kecamatan">
+        <item>Kecamatan Kota Kediri</item>
+        <item>Kecamatan Mojoroto</item>
+        <item>Kecamatan Pesantren</item>
+    </string-array>
+
+
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
